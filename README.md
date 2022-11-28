@@ -15,9 +15,8 @@
 ### 설치
 langauge: python
 
-'''
-$ pip install pymysql
-$ pip install cryptography
-'''
+ $ pip install pymysql
+ $ pip install cryptography
+
 
 로그인,회원가입부터 시작하도록..!
