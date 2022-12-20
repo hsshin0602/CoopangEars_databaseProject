@@ -44,9 +44,11 @@ langauge: python
 < Success order : higher than minimum cost >
 
 ![image](https://user-images.githubusercontent.com/86701879/208559239-e513018e-1c00-4c91-b53f-05b0ba1590d6.png)
+
 < Fail order : lower than minimum cost >
 
 ![image](https://user-images.githubusercontent.com/86701879/208559242-62dc64d7-a1aa-4bcb-b1ad-f9d0e4384890.png)
+
 < Go back to the restaurant selection page >
 
 ![image](https://user-images.githubusercontent.com/86701879/208559283-2ddb75d6-9597-495d-9e8d-463abc4353c1.png)
@@ -55,6 +57,7 @@ langauge: python
 < Before order : total cost 0원 >
 
 ![image](https://user-images.githubusercontent.com/86701879/208559330-25bf39f8-bf0b-439b-98c5-ab33c17a3aca.png)
+
 < After order : total cost 15000원 >
 
 ![image](https://user-images.githubusercontent.com/86701879/208559340-393cf129-2e69-430d-8a56-b22cf8a36d22.png)
